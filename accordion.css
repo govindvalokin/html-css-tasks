@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding: 10px;
+}
+.heading{
+    padding: 20px;
+}
+.container .data1 .heading::before{
+    content: '+';
+    position: absolute;
+    right: 25px;
+    
+}
+.container .data1 .para{
+    height: 0px;
+    overflow: hidden;
+}

@@ -1,0 +1,21 @@
+.maincontainer{
+    height: auto;
+    width: 25%;
+    background-color: white;
+    /* text-align: center; */
+    margin: 0 auto;
+
+    
+}
+h1{
+    text-align: center;
+}
+    
+ul li{
+    text-align: left;
+    padding-bottom: 8px;
+    
+}
+body{
+    margin-top: 80px;
+}

@@ -1,0 +1,28 @@
+#first{
+    /* border: 2px ; */
+    background-color: black;
+    color: white;
+    border-style: none;
+    
+
+}
+
+.odd{
+    background-color: rgb(169, 169, 231);
+    
+    margin: 0px;
+    padding: opx;
+}
+table tr{
+    text-align: center;
+}
+table{
+    height: 300px;
+    width: 80%;
+    margin-left: 120px;
+    margin-top: 150px;
+    border-collapse:collapse ;
+}
+
+
+
